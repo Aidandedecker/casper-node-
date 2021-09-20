@@ -27,3 +27,6 @@ https://docs.casperlabs.io/en/latest/dapp-dev-guide/setup-nctl.html
 
 ### Section 3, Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios
 
+Start the network.
+
+![Screen Shot 2021-09-20 at 5 09 00 PM](https://user-images.githubusercontent.com/80616939/134088188-2511bc94-3172-4a37-a75d-cf6081cd52aa.png)
